@@ -32,7 +32,7 @@ Terdapat **88 Jenis Pekerjaan** standar.
     "name": "Wiraswasta"
   }
 ]
-
+'''json
 
 Contoh Penggunaan (HTML Select)
 Data ini siap digunakan untuk mengisi dropdown menu:
