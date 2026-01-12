@@ -18,6 +18,7 @@ Data ini sangat berguna untuk developer yang membuat:
 | **JSON** | `ktp_occupations.json` | [Klik di sini](https://raw.githubusercontent.com/[USERNAME]/id-ktp-occupations/main/ktp_occupations.json) |
 | **CSV** | `ktp_occupations.csv` | [Klik di sini](https://raw.githubusercontent.com/[USERNAME]/id-ktp-occupations/main/ktp_occupations.csv) |
 
+
 ## 🧩 Struktur Data
 Terdapat **88 Jenis Pekerjaan** standar.
 
@@ -32,9 +33,8 @@ Terdapat **88 Jenis Pekerjaan** standar.
     "name": "Wiraswasta"
   }
 ]
-json'''json
 
-Contoh Penggunaan (HTML Select)
+##Contoh Penggunaan (HTML Select)
 Data ini siap digunakan untuk mengisi dropdown menu:
 
 HTML
@@ -45,3 +45,6 @@ HTML
     <option value="15">Karyawan Swasta</option>
     <option value="88">Wiraswasta</option>
 </select>
+
+
+
