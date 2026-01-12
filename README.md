@@ -18,6 +18,21 @@ Data ini sangat berguna untuk developer yang membuat:
 | **JSON** | `ktp_occupations.json` | [Klik di sini](https://raw.githubusercontent.com/[USERNAME]/id-ktp-occupations/main/ktp_occupations.json) |
 | **CSV** | `ktp_occupations.csv` | [Klik di sini](https://raw.githubusercontent.com/[USERNAME]/id-ktp-occupations/main/ktp_occupations.csv) |
 
+##Contoh Penggunaan (HTML Select)
+Data ini siap digunakan untuk mengisi dropdown menu:
+
+HTML
+
+<select name="pekerjaan" id="job-select">
+    <option value="1">Belum/Tidak Bekerja</option>
+    <option value="5">Pegawai Negeri Sipil (PNS)</option>
+    <option value="15">Karyawan Swasta</option>
+    <option value="88">Wiraswasta</option>
+</select>
+
+
+
+
 
 ## 🧩 Struktur Data
 Terdapat **88 Jenis Pekerjaan** standar.
@@ -33,18 +48,4 @@ Terdapat **88 Jenis Pekerjaan** standar.
     "name": "Wiraswasta"
   }
 ]
-
-##Contoh Penggunaan (HTML Select)
-Data ini siap digunakan untuk mengisi dropdown menu:
-
-HTML
-
-<select name="pekerjaan" id="job-select">
-    <option value="1">Belum/Tidak Bekerja</option>
-    <option value="5">Pegawai Negeri Sipil (PNS)</option>
-    <option value="15">Karyawan Swasta</option>
-    <option value="88">Wiraswasta</option>
-</select>
-
-
 
