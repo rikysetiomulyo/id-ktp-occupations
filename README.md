@@ -32,3 +32,16 @@ Terdapat **88 Jenis Pekerjaan** standar.
     "name": "Wiraswasta"
   }
 ]
+
+
+Contoh Penggunaan (HTML Select)
+Data ini siap digunakan untuk mengisi dropdown menu:
+
+HTML
+
+<select name="pekerjaan" id="job-select">
+    <option value="1">Belum/Tidak Bekerja</option>
+    <option value="5">Pegawai Negeri Sipil (PNS)</option>
+    <option value="15">Karyawan Swasta</option>
+    <option value="88">Wiraswasta</option>
+</select>
